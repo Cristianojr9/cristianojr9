@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   Hello, I'm Cristiano! 👋
 </h3>
 <p align="center">
-  JavaScript | Node.js | ReactJS | React Native | HTML | CSS | Flexbox | Bootsrap | UI | UX
+  JavaScript | Node.js | ReactJS | React Native | HTML | CSS | Flexbox | Bootstrap | UI | UX
 </p>
 <h4 align="center">
   📌  Living in <b>Quixadá</b>, <b>Cearpa</b>, <b>Brazil</b>  
