@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   JavaScript | Node.js | ReactJS | React Native | HTML | CSS | Flexbox | Bootstrap | UI | UX
 </p>
 <h4 align="center">
-  📌  Living in <b>Quixadá</b>, <b>Cearpa</b>, <b>Brazil</b>  
+  📌  Living in <b>Quixadá</b>, <b>Ceara</b>, <b>Brazil</b>  
 </h4>
 <h4 align="center">🤓 I love to learn</h4>
 <h4 align="center">💼 Front-End Developer</h4>
