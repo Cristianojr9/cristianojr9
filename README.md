@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   Hello, I'm Cristiano! 👋
 </h3>
 <p align="center">
-  HTML | CSS | JavaScript |  ReactJS | Node.js | React Native | Flexbox | Bootstrap | UI | UX
+  HTML | CSS | JavaScript | ReactJS | React Native | NodeJS  | UI | UX
 </p>
 <p align="center">
   ⚡ Buscando colaborar com projetos desafiadores
