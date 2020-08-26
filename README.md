@@ -17,10 +17,14 @@ Here are some ideas to get you started:
   Hello, I'm Cristiano! 👋
 </h3>
 <p align="center">
-  JavaScript | Node.js | ReactJS | React Native | HTML | CSS | Flexbox | Bootstrap | UI | UX
+  HTML | CSS | JavaScript |  ReactJS | Node.js | React Native | Flexbox | Bootstrap | UI | UX
+</p>
+<p align="center">
+  ⚡ Buscando colaborar com projetos desafiadores
 </p>
 <h4 align="center">
   📌  Living in <b>Quixadá</b>, <b>Ceará</b>, <b>Brazil</b>  
 </h4>
 <h4 align="center">🤓 I love to learn</h4>
 <h4 align="center">💼 Front-End Developer</h4>
+<h4 align="center">📫 cristiano_junior99@outlook.com</h4>
