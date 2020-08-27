@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="center">
-  Hello, I'm Cristiano! 👋
+  Oi, Eu sou o Cristiano! 👋
 </h3>
 <p align="center">
   HTML | CSS | JavaScript | ReactJS | React Native | NodeJS  | UI | UX
@@ -23,8 +23,8 @@ Here are some ideas to get you started:
   ⚡ Buscando colaborar com projetos desafiadores
 </p>
 <h4 align="center">
-  📌  Living in <b>Quixadá</b>, <b>Ceará</b>, <b>Brazil</b>  
+  📌  Morando em <b>Quixadá</b>, <b>Ceará</b>, <b>Brasil</b>  
 </h4>
-<h4 align="center">🤓 I love to learn</h4>
-<h4 align="center">💼 Front-End Developer</h4>
+<h4 align="center">🤓 Eu amo aprender</h4>
+<h4 align="center">💼 Desenvolvedor front-end</h4>
 <h4 align="center">📫 cristiano_junior99@outlook.com</h4>
