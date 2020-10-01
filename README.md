@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 <h4 align="center">
   📌  Morando em <b>Quixadá</b>, <b>Ceará</b>, <b>Brasil</b>  
 </h4>
-<h4 align="center">🤓 Eu amo aprender</h4>
+<h4 align="center">🤓 Gosto de aprender</h4>
 <h4 align="center">💼 Desenvolvedor front-end</h4>
 <h4 align="center">📫 cristiano_junior99@outlook.com</h4>
