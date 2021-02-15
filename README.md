@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   Oi, Eu sou o Cristiano! 👋
 </h3>
 <p align="center">
-  HTML | CSS | JavaScript | ReactJS | React Native | UI
+  HTML | CSS | JavaScript | TypeScript | ReactJS | React Native | UI
 </p>
 <p align="center">
   ⚡ Buscando colaborar com projetos desafiadores
