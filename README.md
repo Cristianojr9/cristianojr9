@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   ⚡ Buscando colaborar com projetos desafiadores
 </p>
 <h4 align="center">
-  📌  Morando em <b>Quixadá</b>, <b>Ceará</b>, <b>Brasil</b>  
+  📌  Morando no <b>Ceará</b>, <b>Brasil</b>  
 </h4>
 <h4 align="center">🤓 Gosto de aprender</h4>
 <h4 align="center">💼 Desenvolvedor front-end</h4>
