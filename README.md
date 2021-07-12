@@ -1,6 +1,4 @@
  # <a href="https://www.linkedin.com/in/cristianojr9/">Cristiano Junior</a> :smiley:
- 
-<br/>
 
 ## Sobre mim :sunglasses:
 Cursando Engenharia de Software pela a UFC - Universidade Federal do Ceará, estudante da Rocketseat. Sou apaixonado por inovação e gosto de aprender novas tecnologias e metodologias. Tenho experiência desde 2019 em desenvolvimento front-end com HTML, CSS, Javascript, ReactJS e para o back-end com NodeJs, Express e entre outras.  
