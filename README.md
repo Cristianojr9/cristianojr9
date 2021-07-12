@@ -19,12 +19,11 @@ Cursando Engenharia de Software pela a UFC - Universidade Federal do Ceará, est
 <code><img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white"/></code>
 <code><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></code>
 
-
-##  Contatos :speech_balloon:
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cristianojr9/)](https://www.linkedin.com/in/cristianojr9/) [![Outlook Badge](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:cristiano_junior99@outlook.com)](mailto:cristiano_junior99@outlook.com) [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/cristianojr9/)](https://www.instagram.com/cristianojr9/)
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cristianojr9&show_icons=true" alt="cristiano" />
 </p>
+
+##  Contatos :speech_balloon:
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cristianojr9/)](https://www.linkedin.com/in/cristianojr9/) [![Outlook Badge](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:cristiano_junior99@outlook.com)](mailto:cristiano_junior99@outlook.com) [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/cristianojr9/)](https://www.instagram.com/cristianojr9/)
 
 
