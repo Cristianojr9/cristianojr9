@@ -20,7 +20,7 @@ Cursando Engenharia de Software pela a UFC - Universidade Federal do Ceará, est
 <code><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></code>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cristianojr9&show_icons=true" alt="cristiano" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cristianojr9&show_icons=true&theme=dark" alt="cristiano" />
 </p>
 
 ##  Contatos :speech_balloon:
