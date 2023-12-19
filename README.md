@@ -1,4 +1,3 @@
-<p align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=cristianojr9" alt="cristianojr9" /> </p>
 <p align="center">
 
 [![Twitter Badge](https://img.shields.io/badge/-@juniorescss-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/juniorescss)](https://twitter.com/juniorescss)
