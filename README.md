@@ -6,7 +6,7 @@
 
 </p>
 
-Hi guys, I'm Cristiano Junior. I am a Software Engineer from Brazil. I'm currently working at [iFood](https://github.com/ifood).
+Hi guys, I'm Cristiano Junior. I am a Software Engineer from Brazil. 
 
 <a name="learning-now"></a>
 
